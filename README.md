@@ -180,8 +180,8 @@ This group has the **highest average salary (79K)**, the **highest Good/Very Goo
 **Adebayo Idowu**
 Data Analyst | Power BI | HR Analytics
 
- **Connect with me:**
-[LinkedIn](linkedin.com/in/idowu-adebayo-157a1420b) · [Email](adebayoidowu08125@gmail.com) · [Portfolio](https://github.com/Idowu-Adebayo)
+**Connect with me:**
+[LinkedIn](https://www.linkedin.com/in/idowu-adebayo-157a1420b) · [Email](mailto:adebayoidowu08125@gmail.com) · [Portfolio](https://github.com/Idowu-Adebayo)
 
 ---
 
