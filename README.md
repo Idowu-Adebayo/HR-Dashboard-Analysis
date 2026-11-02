@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📊 ADE Manufacturing Group
+#  ADE Manufacturing Group
 ## HR Data Analysis Dashboard
 
 **Turning workforce data into fair, data-driven people decisions**
@@ -10,13 +10,13 @@
 ![Focus](https://img.shields.io/badge/Focus-Diversity%20%26%20Pay%20Equity-8A2BE2?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-2EA44F?style=for-the-badge)
 
-![Dashboard Preview](assets/dashboard.png)
+![Dashboard Preview](assets/dashboard.png.pdf)
 
 </div>
 
 ---
 
-## 📌 Table of Contents
+##  Table of Contents
 1. [Background Story](#-background-story)
 2. [Statement of the Problem](#-statement-of-the-problem)
 3. [Project Objectives](#-project-objectives)
@@ -30,7 +30,7 @@
 
 ---
 
-## 📖 Background Story
+##  Background Story
 
 **ADE Manufacturing Group** is a growing manufacturing company with **943 employees** spread across **three locations (Abuja, Kaduna and Lagos)** and **12 departments**, from Engineering and Sales to Legal, Support and Training.
 
@@ -46,7 +46,7 @@ Leadership needed one place to **see the whole workforce, ask questions, and get
 
 ---
 
-## ❗ Statement of the Problem
+##  Statement of the Problem
 
 Without a consolidated view of its HR data, ADE Manufacturing Group faced four connected challenges:
 
@@ -61,7 +61,7 @@ Without a consolidated view of its HR data, ADE Manufacturing Group faced four c
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 1. Provide a **single-page executive view** of the workforce (headcount, departments, average salary).
 2. Show the **gender composition** of the company at a glance.
@@ -71,27 +71,27 @@ Without a consolidated view of its HR data, ADE Manufacturing Group faced four c
 
 ---
 
-## 🧭 Dashboard at a Glance
+##  Dashboard at a Glance
 
 ### KPI Cards
 | Metric | Value |
 |--------|-------|
-| 👥 Total Employees | **943** |
-| ⚧ Gender Categories | **3** (Male, Female, Prefer not to say) |
-| 🏢 Departments | **12** |
-| 💰 Average Salary | **74K** |
+|  Total Employees | **943** |
+|  Gender Categories | **3** (Male, Female, Prefer not to say) |
+|  Departments | **12** |
+|  Average Salary | **74K** |
 
 ### Visuals
 | Visual | Purpose |
 |--------|---------|
-| 🍩 **Donut chart:** Count of Gender | Shows workforce composition |
-| 📊 **Column chart:** Average Salary by Gender | Reveals pay differences between groups |
-| 📉 **100% stacked bar:** Ratings by Gender | Compares performance rating distribution (Very Good to Very Poor) |
-| 🎛️ **Slicers:** Location and Department | Interactive filtering across all visuals |
+|  **Donut chart:** Count of Gender | Shows workforce composition |
+|  **Column chart:** Average Salary by Gender | Reveals pay differences between groups |
+|  **100% stacked bar:** Ratings by Gender | Compares performance rating distribution (Very Good to Very Poor) |
+|  **Slicers:** Location and Department | Interactive filtering across all visuals |
 
 ---
 
-## 🔍 Key Findings
+##  Key Findings
 
 ### 1. The workforce is almost evenly split between men and women
 | Gender | Employees | Share |
@@ -128,7 +128,7 @@ This group has the **highest average salary (79K)**, the **highest Good/Very Goo
 
 ---
 
-## ✅ How the Dashboard Solves the Problem
+##  How the Dashboard Solves the Problem
 
 | Problem | How the Dashboard Addresses It |
 |---------|--------------------------------|
@@ -141,7 +141,7 @@ This group has the **highest average salary (79K)**, the **highest Good/Very Goo
 
 ---
 
-## 💡 Recommendations
+##  Recommendations
 
 1. **Run a formal pay-equity audit.** Compare like-for-like roles, grades and tenure to confirm whether the female pay gap is explained by role mix or reflects genuine inequity.
 2. **Review salary-progression and promotion decisions**, since women are rated as well as or better than men but earn less.
@@ -151,7 +151,7 @@ This group has the **highest average salary (79K)**, the **highest Good/Very Goo
 
 ---
 
-## ⚠️ Limitations and Next Steps
+##  Limitations and Next Steps
 
 - Salary figures are **averages** and do not yet account for job level, tenure or department mix, so the gaps shown are **descriptive, not proof of causation**.
 - The "Prefer not to say" group is small (n = 39), so its results are less statistically reliable.
@@ -175,13 +175,13 @@ This group has the **highest average salary (79K)**, the **highest Good/Very Goo
 
 ---
 
-## 👤 About the Author
+##  About the Author
 
 **Adebayo Idowu**
 Data Analyst | Power BI | HR Analytics
 
-📫 **Connect with me:**
-[LinkedIn](https://www.linkedin.com/in/your-profile) · [Email](mailto:your-email@example.com) · [Portfolio](https://github.com/your-username)
+ **Connect with me:**
+[LinkedIn](linkedin.com/in/idowu-adebayo-157a1420b) · [Email](adebayoidowu08125@gmail.com) · [Portfolio](https://github.com/Idowu-Adebayo)
 
 ---
 
