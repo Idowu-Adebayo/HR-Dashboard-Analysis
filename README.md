@@ -10,7 +10,7 @@
 ![Focus](https://img.shields.io/badge/Focus-Diversity%20%26%20Pay%20Equity-8A2BE2?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-2EA44F?style=for-the-badge)
 
-![Dashboard Preview](assets/dashboard.png.pdf)
+![Dashboard Preview](assets/dashboard.png.)
 
 </div>
 
@@ -163,7 +163,7 @@ This group has the **highest average salary (79K)**, the **highest Good/Very Goo
 
 ---
 
-## 🛠️ Tools and Skills Demonstrated
+##  Tools and Skills Demonstrated
 
 | Category | Details |
 |----------|---------|
@@ -181,12 +181,12 @@ This group has the **highest average salary (79K)**, the **highest Good/Very Goo
 Data Analyst | Power BI | HR Analytics
 
  **Connect with me:**
-[LinkedIn](linkedin.com/in/idowu-adebayo-157a1420b) · [Email](adebayoidowu08125@gmail.com) · [Portfolio](https://github.com/Idowu-Adebayo)
+[LinkedIn]linkedin.com/in/idowu-adebayo-157a1420b · [Email]adebayoidowu08125@gmail.com · [Portfolio](https://github.com/Idowu-Adebayo)
 
 ---
 
 <div align="center">
 
-⭐ *If you found this project insightful, please give it a star!* ⭐
+ *If you found this project insightful, please give it a star!* 
 
 </div>
