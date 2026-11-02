@@ -155,11 +155,6 @@ This group has the **highest average salary (79K)**, the **highest Good/Very Goo
 
 - Salary figures are **averages** and do not yet account for job level, tenure or department mix, so the gaps shown are **descriptive, not proof of causation**.
 - The "Prefer not to say" group is small (n = 39), so its results are less statistically reliable.
-- **Planned enhancements:**
-  - Add tenure, age band and job-level analysis
-  - Add attrition / turnover tracking
-  - Add a department-level pay-gap view
-  - Add tooltips and a hiring-trend page
 
 ---
 
@@ -177,7 +172,7 @@ This group has the **highest average salary (79K)**, the **highest Good/Very Goo
 
 ##  About the Author
 
-**Adebayo Idowu**
+**Adebayo Idowu Oluwasegun**
 Data Analyst | Power BI | HR Analytics
 
 **Connect with me:**
