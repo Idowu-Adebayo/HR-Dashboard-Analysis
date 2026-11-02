@@ -10,7 +10,7 @@
 ![Focus](https://img.shields.io/badge/Focus-Diversity%20%26%20Pay%20Equity-8A2BE2?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-2EA44F?style=for-the-badge)
 
-![Dashboard Preview](assets/dashboard.png.)
+![Dashboard Preview](assets/dashboard.png)
 
 </div>
 
